@@ -1,7 +1,7 @@
 # AutoregressModel-AE_VAD_CVPR2019
-This repo is the pytorch re-implemention of [Unsupervised Learning for Physical Interaction through Video Prediction
-](https://arxiv.org/abs/1807.01653), NeuralPS 2019 by Davide Abati and Rita Cucchiara. The official code based on caffe implementation is here: 
-[official imcompleted_tensorflow implementation](https://github.com/kristofbc/physical-interaction-video-prediction)
+This repo is the pytorch re-implemention of [Latent Space Autoregression for Novelty Detection
+](https://arxiv.org/abs/1807.01653), CVPR 2019 by Davide Abati and Rita Cucchiara. The official imcompleted_pytorch code is here: 
+[official imcompleted_pytorch implementation](https://github.com/aimagelab/novelty-detection)
 
 ### 1. Installation (Anaconda with python3.6 installation is recommended)
 
